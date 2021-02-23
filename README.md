@@ -1,7 +1,7 @@
 # Quest App Launcher
 [Latest download](https://sidequestvr.com/#/app/199) | [Patreon](https://www.patreon.com/questapplauncher) | [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=FYFMN7N3PTCJE&currency_code=USD&source=url)
 
-An app launcher for Oculus Quest implemented in Unity.
+An app launcher for Oculus Quest implemented in Unity. 
 
 ## Features
 * Supports launching both 3D and 2D apps
